@@ -1,0 +1,59 @@
+.layout {
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+
+.container {
+    display: flex;
+    background-color: #63babf;
+    gap: 10px;
+}
+
+.left {
+    display: block;
+    margin: 50px;
+}
+
+.left img {
+    display: flex;
+    justify-content: center;
+    width: 315px;
+    height: 389px;
+    border-radius: 124px;
+}
+
+.right {
+    display: block;
+    margin: 50px;
+    background-color: #DFC1D1;
+    width: 482px;
+    height: 458px;
+}
+
+.right .box1 img {
+    height: 150px;
+    width: 150px;
+    padding: 20px;
+}
+
+.right h1 {
+    text-align: center;
+}
+
+.right .box1 {
+    text-align: center;
+    padding: 25px;
+}
+
+.button {
+    background-color: #DE4141;
+    width: 300px;
+    height: 40px;
+    border: none;
+}
+
+.A1 {
+    width: 300px;
+    height: 40px;
+}
